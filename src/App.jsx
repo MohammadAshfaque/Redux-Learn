@@ -9,7 +9,7 @@ const App = () => {
     <div className='h-screen w-screen'>
       <nav className='py-5 flex justify-center gap-10'>
         <Link to="/">Home</Link>
-        <Link to="/users">Users</Link>
+        <Link to="/users">users</Link>
         <Link to="/products">Products</Link>
       </nav>
       <hr/>
